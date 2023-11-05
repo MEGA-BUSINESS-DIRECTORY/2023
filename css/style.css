@@ -159,3 +159,7 @@ a {
     
 .a:hover, a:hover 
 {text-decoration: none; color: #0723e9;}
+
+b, strong {
+    font-weight: 500;
+}
